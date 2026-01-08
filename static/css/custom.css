@@ -1,0 +1,31 @@
+/* your styles go here */
+/* Example site test */
+
+.box-image-text .image {
+    min-height: 190px;
+    max-height: 190px;
+}
+
+.box-image-text .image img {
+    max-height: 190px;
+    margin: auto;
+}
+
+.box-simple {
+    min-height: 230px;
+}
+
+/* Remove grayscale from customer/client images */
+ul.customers img,
+.customers img {
+    filter: grayscale(0) !important;
+    -webkit-filter: grayscale(0) !important; /* For Safari/Chrome */
+    opacity: 1 !important;
+}
+
+/* Override for the 'See More' section background */
+.background-image-fixed-2 {
+    background: url('../img/sm-bg.jpg') center center no-repeat !important;
+    background-size: cover !important;
+}
+

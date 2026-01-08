@@ -1,0 +1,10 @@
+weight: 2
+title: "Local Events"
+description: >
+  <ul class="list-style-none">
+     <li>Steering Committee Driven</li>
+     <li>Anyone can organize</li>
+     <li>Any automation topics are welcome</li>
+   </ul>
+image: "img/carousel/rhug.png"
+href: "faq"

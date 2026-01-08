@@ -1,0 +1,9 @@
+weight: 3
+title: "Resource Repository"
+description: >
+  <ul class="list-style-none">
+    <li>Validated examples and use-cases</li>
+    <li>Best practices and success patterns</li>
+    <li>Community driven guidance</li>
+  </ul>
+image: "img/carousel/template-easy-code.png"
